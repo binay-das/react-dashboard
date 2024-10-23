@@ -8,7 +8,7 @@
 - Responsive layout powered by Tailwind CSS.
 - Interactive animations with Framer Motion.
 - Routing handled with React Router DOM.
-- Data visualization using Recharts.├──  └── |
+- Data visualization using Recharts.
 
 
 
