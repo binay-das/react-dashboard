@@ -4,6 +4,7 @@
 ### The dashboard provides smooth interactions using framer-motion for animations, utilizes react-router-dom for routing, and displays data visualization through recharts.
 
 
+
 ## Features
 - Responsive layout powered by Tailwind CSS.
 - Interactive animations with Framer Motion.
