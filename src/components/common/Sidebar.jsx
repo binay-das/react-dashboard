@@ -4,13 +4,13 @@ import { AnimatePresence, motion } from "framer-motion";
 import { Link } from "react-router-dom";
 
 const SIDEBAR_ITEMS = [
-	{ name: "Dashboard", icon: BarChart2, color: "#6366f1", href: "/" },
-	{ name: "Leads", icon: Users, color: "#EC4899", href: "/leads" },
-	{ name: "Analytics", icon: TrendingUp, color: "#3B82F6", href: "/analytics" },
-	{ name: "Products", icon: ShoppingBag, color: "#8B5CF6", href: "/products" },
-	{ name: "Sales Reports", icon: DollarSign, color: "#10B981", href: "/reports" },
-	{ name: "Orders", icon: ShoppingCart, color: "#F59E0B", href: "/orders" },
-	{ name: "Settings", icon: Settings, color: "#6EE7B7", href: "/settings" },
+	{ name: "Dashboard", icon: BarChart2, color: "#6366f1", href: "/react-dashboard" },
+	{ name: "Leads", icon: Users, color: "#EC4899", href: "/react-dashboard/leads" },
+	{ name: "Analytics", icon: TrendingUp, color: "#3B82F6", href: "/react-dashboard/analytics" },
+	{ name: "Products", icon: ShoppingBag, color: "#8B5CF6", href: "/react-dashboard/products" },
+	{ name: "Sales Reports", icon: DollarSign, color: "#10B981", href: "/react-dashboard/reports" },
+	{ name: "Orders", icon: ShoppingCart, color: "#F59E0B", href: "/react-dashboard/orders" },
+	{ name: "Settings", icon: Settings, color: "#6EE7B7", href: "/react-dashboard/settings" },
 ];
 
 const Sidebar = () => {
